@@ -6,7 +6,7 @@ const SEO = ({
   description, 
   canonicalUrl = 'https://curadent.in',
   ogType = 'website',
-  ogImage = 'https://curadent.in/og-image.jpg',
+  ogImage = 'https://curadent.in/assets/images/og-image.jpg',
   keywords,
   children,
   language = 'en-IN' 
@@ -39,6 +39,24 @@ const SEO = ({
       <meta name="geo.placename" content="Bangalore" />
       <meta name="geo.position" content="13.0125;77.6541" />
       <meta name="ICBM" content="13.0125, 77.6541" />
+
+      {/* Favicon Tags */}
+      <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/favicon-32x32.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/favicon-16x16.png" />
+      <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon.png" />
+      <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#0066CC" />
+      <meta name="msapplication-TileColor" content="#0066CC" />
+      <meta name="msapplication-config" content="/assets/icons/browserconfig.xml" />
+
+      {/* PWA Tags */}
+      <link rel="manifest" href="/manifest.json" />
+      <meta name="theme-color" content="#0066CC" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+      <meta name="apple-mobile-web-app-title" content="Curadent" />
+      <meta name="application-name" content="Curadent" />
+      <meta name="format-detection" content="telephone=yes" />
 
       {/* Open Graph / Facebook */}
       <meta property="og:type" content={ogType} />
