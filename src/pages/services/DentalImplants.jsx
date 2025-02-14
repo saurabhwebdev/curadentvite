@@ -10,8 +10,8 @@ const DentalImplants = () => {
     <>
       <SEO
         title="Dental Implant Services | Curadent"
-        description="Restore your missing teeth with permanent, natural-looking dental implants at Curadent, Bangalore's premier dental clinic."
-        keywords="dental implants, tooth implants, dental surgery, missing teeth, dental restoration, implant dentist bangalore"
+        description="Restore your missing teeth with permanent, natural-looking dental implants at Curadent, Bengaluru's premier dental clinic."
+        keywords="dental implants, tooth implants, dental surgery, missing teeth, dental restoration, implant dentist Bengaluru"
       />
       
       {/* Hero Section with Background Pattern */}

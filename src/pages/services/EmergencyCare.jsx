@@ -10,8 +10,8 @@ const EmergencyCare = () => {
     <>
       <SEO
         title="Emergency Dental Care Services | Curadent"
-        description="24/7 emergency dental care for immediate pain relief and urgent dental problems at Curadent, Bangalore."
-        keywords="emergency dentist, dental emergency, urgent dental care, tooth pain relief, emergency dental clinic bangalore"
+        description="24/7 emergency dental care for immediate pain relief and urgent dental problems at Curadent, Bengaluru."
+        keywords="emergency dentist, dental emergency, urgent dental care, tooth pain relief, emergency dental clinic Bengaluru"
       />
       
       {/* Hero Section with Background Pattern */}

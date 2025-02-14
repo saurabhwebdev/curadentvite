@@ -10,8 +10,8 @@ const Orthodontics = () => {
     <>
       <SEO
         title="Orthodontics Treatment | Curadent"
-        description="Advanced orthodontic treatments including braces and aligners for a perfect smile at Curadent, Bangalore."
-        keywords="orthodontics, dental braces, clear aligners, teeth straightening, orthodontist bangalore"
+        description="Advanced orthodontic treatments including braces and aligners for a perfect smile at Curadent, Bengaluru."
+        keywords="orthodontics, dental braces, clear aligners, teeth straightening, orthodontist Bengaluru"
       />
       
       {/* Hero Section with Background Pattern */}

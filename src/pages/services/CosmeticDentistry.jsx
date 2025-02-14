@@ -10,8 +10,8 @@ const CosmeticDentistry = () => {
     <>
       <SEO
         title="Cosmetic Dentistry | Curadent"
-        description="Transform your smile with advanced cosmetic dentistry treatments at Curadent, Bangalore's premier dental clinic."
-        keywords="cosmetic dentistry, teeth whitening, dental veneers, smile makeover, cosmetic dental clinic bangalore"
+        description="Transform your smile with advanced cosmetic dentistry treatments at Curadent, Bengaluru's premier dental clinic."
+        keywords="cosmetic dentistry, teeth whitening, dental veneers, smile makeover, cosmetic dental clinic Bengaluru"
       />
       
       {/* Hero Section with Background Pattern */}

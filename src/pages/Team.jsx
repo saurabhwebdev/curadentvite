@@ -7,9 +7,9 @@ const Team = () => {
   return (
     <>
       <SEO
-        title="Our Team | Expert Dentists at Curadent Bangalore"
-        description="Meet our team of experienced and qualified dental professionals at Curadent. Our experts are committed to providing you with the highest quality dental care in Bangalore."
-        keywords="curadent dentists, dental experts bangalore, dental specialists, best dentists bangalore, dental team"
+        title="Our Team | Expert Dentists at Curadent Bengaluru"
+        description="Meet our team of experienced and qualified dental professionals at Curadent. Our experts are committed to providing you with the highest quality dental care in Bengaluru."
+        keywords="curadent dentists, dental experts Bengaluru, dental specialists, best dentists Bengaluru, dental team"
       />
       
       {/* Hero Section */}

@@ -12,15 +12,15 @@ const SEO = ({
   language = 'en-IN' 
 }) => {
   // Base title for the website
-  const siteTitle = 'Curadent - Advanced Dental Care in Bangalore';
+  const siteTitle = 'Curadent - Advanced Dental Care in Bengaluru';
   const fullTitle = title ? `${title} | ${siteTitle}` : siteTitle;
 
   // Default description if none provided
-  const defaultDescription = 'Curadent provides advanced dental care services including general dentistry, cosmetic dentistry, orthodontics, and dental implants. Visit our modern clinic in Kasturi Nagar, Bangalore for expert dental care.';
+  const defaultDescription = 'Curadent provides advanced dental care services including general dentistry, cosmetic dentistry, orthodontics, and dental implants. Visit our modern clinic in Kasturi Nagar, Bengaluru for expert dental care.';
   const metaDescription = description || defaultDescription;
 
   // Default keywords for dental practice
-  const defaultKeywords = 'dental clinic bangalore, dentist kasturi nagar, dental care, teeth cleaning, dental implants, orthodontics, cosmetic dentistry, root canal, dental crown, teeth whitening, dental surgery, emergency dentist';
+  const defaultKeywords = 'dental clinic Bengaluru, dentist kasturi nagar, dental care, teeth cleaning, dental implants, orthodontics, cosmetic dentistry, root canal, dental crown, teeth whitening, dental surgery, emergency dentist';
   const metaKeywords = keywords || defaultKeywords;
 
   return (
@@ -36,7 +36,7 @@ const SEO = ({
       <meta charSet="utf-8" />
       <meta name="author" content="Curadent Dental Clinic" />
       <meta name="geo.region" content="IN-KA" />
-      <meta name="geo.placename" content="Bangalore" />
+      <meta name="geo.placename" content="Bengaluru" />
       <meta name="geo.position" content="13.0125;77.6541" />
       <meta name="ICBM" content="13.0125, 77.6541" />
 
@@ -135,7 +135,7 @@ const SEO = ({
           "@id": "https://curadent.in/#organization",
           "areaServed": {
             "@type": "City",
-            "name": "Bangalore"
+            "name": "Bengaluru"
           },
           "hasMap": "https://www.google.com/maps?cid=YOUR_GOOGLE_MAPS_CID",
           "aggregateRating": {

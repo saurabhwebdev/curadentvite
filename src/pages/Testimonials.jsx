@@ -7,9 +7,9 @@ const Testimonials = () => {
   return (
     <>
       <SEO
-        title="Patient Testimonials | Curadent Dental Clinic Bangalore"
+        title="Patient Testimonials | Curadent Dental Clinic Bengaluru"
         description="Read what our patients say about their experience at Curadent. Real stories and reviews from people who have transformed their smiles with us."
-        keywords="curadent reviews, dental clinic testimonials, patient reviews bangalore, dental care experience, dental clinic feedback"
+        keywords="curadent reviews, dental clinic testimonials, patient reviews Bengaluru, dental care experience, dental clinic feedback"
       />
       
       {/* Hero Section */}

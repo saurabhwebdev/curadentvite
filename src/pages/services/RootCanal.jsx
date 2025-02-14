@@ -11,7 +11,7 @@ const RootCanal = () => {
       <SEO
         title="Root Canal Treatment | Curadent"
         description="Expert root canal treatment with minimal discomfort at Curadent. Advanced techniques for effective tooth pain relief."
-        keywords="root canal treatment, endodontic treatment, tooth pain relief, dental infection, root canal specialist bangalore"
+        keywords="root canal treatment, endodontic treatment, tooth pain relief, dental infection, root canal specialist Bengaluru"
       />
       
       {/* Hero Section with Background Pattern */}

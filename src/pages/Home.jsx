@@ -70,9 +70,9 @@ const Home = () => {
   return (
     <>
       <SEO
-        title="Best Dental Clinic in Bangalore | Advanced Dental Care"
-        description="Curadent is a state-of-the-art dental clinic in Bangalore, offering comprehensive dental care including cosmetic dentistry, orthodontics, and dental implants. Book your appointment today!"
-        keywords="dental clinic bangalore, best dentist bangalore, dental implants, cosmetic dentistry, orthodontics, teeth whitening, dental crown, root canal treatment, emergency dentist"
+        title="Best Dental Clinic in Bengaluru | Advanced Dental Care"
+        description="Curadent is a state-of-the-art dental clinic in Bengaluru, offering comprehensive dental care including cosmetic dentistry, orthodontics, and dental implants. Book your appointment today!"
+        keywords="dental clinic Bengaluru, best dentist Bengaluru, dental implants, cosmetic dentistry, orthodontics, teeth whitening, dental crown, root canal treatment, emergency dentist"
       />
       
       <div className="min-h-[calc(100vh-4rem)]">

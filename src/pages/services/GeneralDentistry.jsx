@@ -10,8 +10,8 @@ const GeneralDentistry = () => {
     <>
       <SEO
         title="General Dentistry Services | Curadent"
-        description="Comprehensive dental care including cleanings, fillings, and preventive treatments at Curadent, Bangalore's leading dental clinic."
-        keywords="general dentistry, dental cleaning, dental fillings, preventive dentistry, dental check up, oral health, dental clinic bangalore"
+        description="Comprehensive dental care including cleanings, fillings, and preventive treatments at Curadent, Bengaluru's leading dental clinic."
+        keywords="general dentistry, dental cleaning, dental fillings, preventive dentistry, dental check up, oral health, dental clinic Bengaluru"
       />
       
       {/* Hero Section with Background Pattern */}

@@ -28,7 +28,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold">About Curadent</h3>
             <p className="text-sm text-white/80">
-              Leading dental care provider in Bangalore, offering comprehensive services with state-of-the-art technology and experienced professionals.
+              Leading dental care provider in Bengaluru, offering comprehensive services with state-of-the-art technology and experienced professionals.
             </p>
             <div className="flex space-x-4">
               <Button variant="ghost" size="icon" asChild className="text-white hover:text-white hover:bg-white/20">

@@ -7,9 +7,9 @@ const About = () => {
   return (
     <>
       <SEO
-        title="About Curadent | Leading Dental Clinic in Bangalore"
-        description="Learn about Curadent's journey, our expert team, and our commitment to providing exceptional dental care in Bangalore. Discover our state-of-the-art facilities and patient-first approach."
-        keywords="about curadent, dental clinic history, dental experts bangalore, dental clinic facilities, best dentists bangalore"
+        title="About Curadent | Leading Dental Clinic in Bengaluru"
+        description="Learn about Curadent's journey, our expert team, and our commitment to providing exceptional dental care in Bengaluru. Discover our state-of-the-art facilities and patient-first approach."
+        keywords="about curadent, dental clinic history, dental experts Bengaluru, dental clinic facilities, best dentists Bengaluru"
       />
       
       {/* Hero Section */}
@@ -26,7 +26,7 @@ const About = () => {
           >
             <h1 className="text-5xl font-bold mb-4 text-white">About Curadent</h1>
             <p className="text-xl text-white/80">
-              A decade of excellence in dental care, serving the Bangalore community with advanced treatments and compassionate service.
+              A decade of excellence in dental care, serving the Bengaluru community with advanced treatments and compassionate service.
             </p>
           </motion.div>
         </div>
@@ -44,7 +44,7 @@ const About = () => {
           <div className="max-w-3xl mx-auto text-center mb-12">
             <h2 className="text-3xl font-bold mb-4">Our Story</h2>
             <p className="text-lg text-muted-foreground">
-              Founded in 2014, Curadent has grown from a small clinic to one of Bangalore's most trusted dental care providers. 
+              Founded in 2014, Curadent has grown from a small clinic to one of Bengaluru's most trusted dental care providers. 
               Our journey is built on a foundation of excellence, innovation, and patient-centered care.
             </p>
           </div>
